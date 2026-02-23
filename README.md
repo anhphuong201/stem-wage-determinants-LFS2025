@@ -1,5 +1,5 @@
 # stem-wage-determinants-LFS2025
-**Determinants of Hourly Wages Among STEM Professionals**
+**Project: Determinants of Hourly Wages Among STEM Professionals**
 **Project Overview**
 This project applies machine learning to identify and quantify the key determinants of hourly wages among STEM professionals. The objective is twofold:
 1. Build a predictive regression model with strong explanatory power.
